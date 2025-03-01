@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)]
 <h1 align="center">Hi 👋, I'm Ashish singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b9528ugpd0j5wbqquxkwxabsisw8ug2lwan87v08frfw&ep=v1_gifs_search&rid=200w.gif&ct=g">
